@@ -19,7 +19,7 @@ const ProductReviews: React.FC = () => {
                 <ul className="">
                     <li className="flex">
                         <Image src="/img/profile-placeholder.png" alt='profile' width={48} height={48} className="w-12 h-12 rounded-full" />
-                        <div className="px-4">
+                        <div className="px-4 w-full">
                             <div className="flex justify-between items-center mb-2">
                                 <div>
                                     <div className="font-bold">Barack Obama</div>
@@ -62,7 +62,7 @@ const ProductReviews: React.FC = () => {
                     <hr className='my-4' />
                     <li className="flex">
                         <Image src="/img/profile-placeholder.png" alt='profile' width={48} height={48} className="w-12 h-12 rounded-full" />
-                        <div className="px-4">
+                        <div className="px-4 w-full">
                             <div className="flex justify-between items-center mb-2">
                                 <div>
                                     <div className="font-bold">Onitsuka Tiger</div>
@@ -84,7 +84,7 @@ const ProductReviews: React.FC = () => {
                     <hr className='my-4' />
                     <li className="flex">
                         <Image src="/img/profile-placeholder.png" alt='profile' width={48} height={48} className="w-12 h-12 rounded-full" />
-                        <div className="px-4">
+                        <div className="px-4 w-full">
                             <div className="flex justify-between items-center mb-2">
                                 <div>
                                     <div className="font-bold">Steve Jobs</div>
@@ -112,7 +112,7 @@ const ProductReviews: React.FC = () => {
                     <hr className='my-4' />
                     <li className="flex">
                         <Image src="/img/profile-placeholder.png" alt='profile' width={48} height={48} className="w-12 h-12 rounded-full" />
-                        <div className="px-4">
+                        <div className="px-4 w-full">
                             <div className="flex justify-between items-center mb-2">
                                 <div>
                                     <div className="font-bold">Steve Jobs</div>
